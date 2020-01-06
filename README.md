@@ -1,27 +1,28 @@
-# SignatureApp
+# About SignatureApp
+SignatureApp is a research proyect to catch the signature from canvas.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.5.
+# Technology
+* Angular v9
+* Angular Material v8
+* Cordova
 
-## Development server
+# Demo
+* https://ngxs-system-management-demo.firebaseapp.com
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Quickstart
+Run `npm install` 
 
-## Code scaffolding
+# Run app
+Run `ng serve --o`  for init the app.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Compile to android
+Run `npm run mobile` for generate the www folder.
 
-## Build
+## Run on android
+Run `cordova run android --device` for compile to device.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+# Author
+* https://github.com/gsus17
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## License
+*This is a simple open-source software licensed under the MIT license.*
