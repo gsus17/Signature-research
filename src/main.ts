@@ -19,5 +19,7 @@ if (typeof window['cordova'] !== 'undefined') {
     bootstrap();
   }, false);
 } else {
-  bootstrap();
+  document.addEventListener('DOMContentLoaded', () => {
+    bootstrap();
+  });
 }

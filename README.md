@@ -7,7 +7,7 @@ SignatureApp is a research proyect to catch the signature from canvas.
 * Cordova
 
 # Demo
-* https://ngxs-system-management-demo.firebaseapp.com
+* https://gsus17.github.io/Signature-research/
 
 # Quickstart
 Run `npm install` 
